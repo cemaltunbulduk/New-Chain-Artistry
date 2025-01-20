@@ -27,3 +27,15 @@ Explore real-world use cases for NCA within decentralized applications (dApps).
 Develop staking and reward mechanisms to incentivize community participation.
 
 Expand partnerships to increase adoption and visibility.
+
+
+
+Deployment
+
+https://embeddables.testnet.andromedaprotocol.io/galileo-4/NCAExchange 
+
+Domain
+
+embeddable-nft-marketplace.app 
+
+
