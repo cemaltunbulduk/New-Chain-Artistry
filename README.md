@@ -26,7 +26,7 @@ New Chain Artistry (NCA) is a meme coin designed to celebrate creativity, fun, a
 ## Embeddable Links
 
 - **GraphQL Endpoint**: [Testnet GraphQL](https://embeddables.testnet.andromedaprotocol.io/galileo-4/NCAExchange)
-- **Domain**: [embeddable-nft-marketplace.app](https://embeddable-nft-marketplace.app)
+
 
 ---
 
